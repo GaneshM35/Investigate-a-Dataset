@@ -14,13 +14,12 @@ You will need an installation of Python, plus the following libraries:
 * pandas
 * numpy
 * matplotlib
-* csv
 
 ## Project Contains
 
 This project consists for the following files:
 
-* titanic_data.csv - copy of the dataset
+* titanic-data.csv - copy of the dataset
 * Titanic Dataset Investigation.html - HTML version of the report
 * Titanic Dataset Investigation.ipynb - iPython notebook - used to generate the report
 
@@ -28,3 +27,4 @@ This project consists for the following files:
 
 * Numpy Documentation https://docs.scipy.org/doc/numpy/reference/
 * Pandas Documentation http://pandas.pydata.org/pandas-docs/stable/
+* Titanic: Machine Learning from Disaster https://www.kaggle.com/c/titanic/data

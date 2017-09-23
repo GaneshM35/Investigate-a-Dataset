@@ -28,3 +28,6 @@ This project consists for the following files:
 * Numpy Documentation https://docs.scipy.org/doc/numpy/reference/
 * Pandas Documentation http://pandas.pydata.org/pandas-docs/stable/
 * Titanic: Machine Learning from Disaster https://www.kaggle.com/c/titanic/data
+* Titanic Disaster http://www.anesi.com/titanic.htm
+* Survive Titanic https://blog.socialcops.com/engineering/machine-learning-python/
+* Titanic Survival https://sites.coecis.cornell.edu/chaowang/2016/12/30/titanic-survival-exploration/
